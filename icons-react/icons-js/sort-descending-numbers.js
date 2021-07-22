@@ -1,7 +1,7 @@
 import * as React from "react";
 
 function IconSortDescendingNumbers({
-  size = 24,
+  size = 20,
   color = "currentColor",
   stroke = 2,
   ...props
